@@ -32,7 +32,7 @@
 
 <!-- end of Open Graph--> 
 
-<link rel="stylesheet" href="/assets/main.css">
+<link rel="stylesheet" href="/style.css">
 <link rel="alternate" type="application/rss+xml" title="Dan Romero" href="https://danromero.org/feed.xml" />
 <link rel="icon" href="/assets/32.png" sizes="32x32">
 <link rel="icon" href="/assets/192.png" sizes="192x192">
