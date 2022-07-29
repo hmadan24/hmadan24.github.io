@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="/style.css">
+</head>
+
 
 <header>
   <h1>Dan Romero</h1>
