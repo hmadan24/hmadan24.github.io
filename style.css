@@ -29,7 +29,7 @@ h1, h2, strong {
 
 h1 {
   font-size: 1.6em;
-  border-size: 0px;
+  border-bottom: 0px;
 }
 
 h2, h3 {
