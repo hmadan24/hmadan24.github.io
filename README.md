@@ -1,1 +1,1 @@
-# myblog
+Contains code for personal blog
