@@ -14,10 +14,8 @@ body {
   background: #fafafa; 
 }
 
-header {
-  display: block;
-  width: 100%;
-  float: left;
+.page-header {
+  display: none;
 }
 
 img {
