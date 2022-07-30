@@ -24,12 +24,13 @@ a {
 }
 
 h1, h2, strong {
-  color: #111; 
+  color: #111;
+  border-bottom: 0em;
 }
 
 h1 {
   font-size: 1.6em;
-  border-bottom: none;
+  border-bottom: 0em;
 }
 
 h2, h3 {
