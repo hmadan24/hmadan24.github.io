@@ -8,7 +8,7 @@ categories: jekyll update
 
 But first, here’s what Meesho achieved in terms of growth,
 
-
+![Team growth at Meesho](/assets/team-meesho.png)
 
 But why scale aggressively? Why not wait to set the right processes and plug leakages before going berserk on growth? Hard reality is that competitive threats are everywhere. Being no. 1 player is a strategic advantage - especially in a winner-takes-most or winner-takes-all market.
 
